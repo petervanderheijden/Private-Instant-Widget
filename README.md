@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="http://some_place.com" />
+  <img src="https://raw.githubusercontent.com/petervanderheijden/Private-Instant-Widget/master/assets/header.png" />
 </div>
