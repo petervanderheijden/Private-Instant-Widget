@@ -1,0 +1,10 @@
+{
+    "token": "",
+
+    "meta": {
+        "name": "Private Instant Widget",
+        "version": "1.0.0",
+        "description": "An API based Scriptable app that while display messages from any person that you want.",
+        "author": "Peter van der Heijden"
+    }
+}

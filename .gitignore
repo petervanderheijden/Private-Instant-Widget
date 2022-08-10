@@ -1,0 +1,6 @@
+# directories
+node_modulese
+
+# files
+package.json
+src/config.config.json
